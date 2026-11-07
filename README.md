@@ -1,4 +1,4 @@
-# PPSploit
+# ##Sploit
 A small exploiting system with little to no design and UI, runs on a good API that updates quite alot. This is for new exploiters and a better version of JJsploit.
 
 --How to use--
@@ -9,7 +9,7 @@ https://roblox.com (If you have never created an account)
 
 Press the gear on the top to logout of your account at any time and to create a new one.
 
-Anyways, back to the app.
+
 
 Join any roblox game. Preferably one that you like, open up PPslpoit and press the ''Inject'' button.
 If you see a small black windows screen for a couple seconds, that means that its working.
@@ -33,4 +33,4 @@ Anyways, I thank you for using this awesome script, and hope you have fun with i
 To find better UI executors, check out my github profile, where I release my newest things. 
 https://github.com/CowChocoxd
 
-(PPslpoit is not a trademark, but marking it as your own or whatever you scums want to do will hurt my feelings, please do not make PPsploit payed, as it is a free exploit that I hope can help out the roblox community!
+(##sploit is not a trademark, but marking it as your own or whatever you scums want to do will hurt my feelings, please do not make PPsploit payed, as it is a free exploit that I hope can help out the roblox community!)
